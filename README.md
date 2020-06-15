@@ -1,2 +1,2 @@
-# muscat-maintenance
-A repository for tracking data maintenance tasks
+# RISM-maintenance
+Tracker for the RISM tasks we have
